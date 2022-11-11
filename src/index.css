@@ -96,6 +96,7 @@ main{
 textarea{
   padding: 1rem 0;
   font-size: 15px;
+  max-height: 200px;
   resize: none;
   background-color: transparent;
   border: none;
