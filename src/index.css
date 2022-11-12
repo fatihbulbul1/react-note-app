@@ -113,6 +113,9 @@ textarea:focus{
   cursor: pointer;
   color: #505050;
 }
+.text{
+  line-break: anywhere;
+}
 @media (max-width : 360px) {
   main{
     padding: 40px 5px;
